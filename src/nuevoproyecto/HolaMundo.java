@@ -23,9 +23,9 @@ public class HolaMundo {
           System.out.println("Ingrese tu nombre");
           nombre = leer.next();
           int numero;
-          numero = 20;
+          numero = 200;
           
-          System.out.println("Hola Mundo! Soy " + nombre + " y estoyyyyy programando en Java");
+          System.out.println("Hola Mundo! Soy " + nombre + " y estoy programando en Java");
     }
     
 }
