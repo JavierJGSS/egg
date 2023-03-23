@@ -23,7 +23,7 @@ public class HolaMundo {
           System.out.println("Ingrese tu nombre");
           nombre = leer.next();
           int numero;
-          numero = 200;
+          numero = 20;
           
           System.out.println("Hola Mundo! Soy " + nombre + " y estoy programando en Java");
     }
